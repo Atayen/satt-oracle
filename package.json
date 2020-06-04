@@ -1,0 +1,27 @@
+{
+  "name": "satt-oracle",
+  "version": "1.0.0",
+  "description": "Web3 based library to handle SaTT oracle request and responses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atayen/satt-oracle.git"
+  },
+  "keywords": [
+    "satt",
+    "web3",
+    "oracle"
+  ],
+  "author": "Geoffrey Moya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atayen/satt-oracle/issues"
+  },
+  "homepage": "https://github.com/Atayen/satt-oracle#readme",
+  "dependencies": {
+    "web3": "^1.2.8"
+  }
+}
